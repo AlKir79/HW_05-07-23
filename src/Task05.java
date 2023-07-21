@@ -1,3 +1,6 @@
+// Задание 5
+//Параллелограмм: заполненный и пустой.
+
 import java.util.Scanner;
 
 public class Task05 {

@@ -1,3 +1,7 @@
+//Задание 3
+//Равнобедренный треугольник:
+//заполненный и пустой.
+
 import java.util.Scanner;
 
 public class Task03 {

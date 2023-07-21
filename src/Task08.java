@@ -1,5 +1,8 @@
-import java.util.Scanner;
+//Задание 8
+//С клавиатуры вводится целое число любой разрядности.
+//Программа должна определить и вывести на консоль количество цифр в этом числе, а так же сумму этих чисел
 
+import java.util.Scanner;
 public class Task08 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

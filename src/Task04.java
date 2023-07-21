@@ -1,3 +1,6 @@
+//  Задание 4
+//Ромб: заполненный и пустой.
+
 import java.util.Scanner;
 
 public class Task04 {
